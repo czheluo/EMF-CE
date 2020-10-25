@@ -12,7 +12,7 @@ $EMFCE('../pr124.tsp','diary.txt',59030,10)
 ```
 ### Figs
 
-[KROA100.tsp](Fig/KROA100.bmp)
+[KROA100.tsp]("Fig/KROA100.bmp")
 
 
 
