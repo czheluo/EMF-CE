@@ -29,3 +29,6 @@ $EMFCE('../pr124.tsp','diary.txt',59030,10)
 - pa561.tsp
 
 ![KROA100.tsp](Fig/pa561.jpg)
+### citation
+
+> Luo, Meng; Gu, Shiliang (2020): Solve traveling salesman problem using EMF-CE algorithm. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.13139042.v2 
